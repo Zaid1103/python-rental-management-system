@@ -1,0 +1,25 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+acr03,3,Average experience.
+tlo04,2,Not very engaging.
+cod01,5,Highly enjoyable!
+godofwar02,5,Epic Norse mythology journey
+cyberpunk01,3,Disappointing compared to expectations
+cod03,4,Solid gameplay and graphics
+ac03,3,Mediocre sequel
+gta02,5,A timeless classic
+cod04,4,Good single-player campaign
+halo03,1,enjoyed very much was fun
+cod04,3,was very fun
+fifa03,5,very fluid gameplay 
+destiny02,1,was not that great
+fifa03,1,very entertaining
+fifa02,1,enjoyable
+halo03,4,was very fun
+halo03,4,was fun
+halo03,3,entertaininggamme
+halo03,4,enjoyed the game
+halo03,3,enjoyable game
+halo03,4,good game
+godofwar02,5,was good

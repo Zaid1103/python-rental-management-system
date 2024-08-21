@@ -1,0 +1,2 @@
+The file contains all the necessary modules as per specification. Please use VS Code to run the programs and use the txt files
+in the folder to make sure it works as planned. The menu file is the code for the gui. 

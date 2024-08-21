@@ -1,0 +1,25 @@
+ID,Platform,Genre,Title,Publisher,Purchase Date
+cod01,PlayStation,Action,COD,Activision,01/08/2020
+fifa02,Xbox,Sports,FIFA,EA Sports,01/08/2019
+cod02,PlayStation,Action,COD,Activision,01/09/2021
+fifa03,Nintendo Switch,Sports,FIFA,EA Sports,02/15/2022
+gta01,Xbox,Adventure,GTA V,Rockstar Games,03/22/2020
+mario01,PlayStation,Platformer,Super Mario Odyssey,Nintendo,04/10/2021
+halo03,PC,Shooter,Halo Infinite,343 Industries,05/18/2022
+ac02,PlayStation,Action,Assassin's Creed Valhalla,Ubisoft,06/05/2021
+madden04,Xbox,Sports,Madden NFL 22,EA Sports,07/11/2023
+fortnite05,PC,Battle Royale,Fortnite,Epic Games,08/29/2020
+minecraft03,PlayStation,Sandbox,Minecraft,Mojang,09/14/2019
+apex01,Xbox,Battle Royale,Apex Legends,Respawn Entertainment,10/03/2021
+zelda02,Nintendo Switch,Action-Adventure,The Legend of Zelda: Breath of the Wild,Nintendo,11/20/2018
+farcry04,PlayStation,First-person Shooter,Far Cry 6,Ubisoft,12/07/2022
+nba2k06,Xbox,Sports,NBA 2K23,2K Sports,01/25/2023
+destiny02,PC,Action,Destiny 2,Bungie,02/08/2020
+spiderman03,PlayStation,Action,Marvel's Spider-Man: Miles Morales,Insomniac Games,03/17/2021
+overwatch04,Xbox,Shooter,Overwatch,Blizzard Entertainment,04/02/2019
+godofwar02,PlayStation,Action-Adventure,God of War,Santa Monica Studio,05/09/2022
+cyberpunk01,PC,RPG,Cyberpunk 2077,CD Projekt,06/26/2020
+cod03,PlayStation,Action,COD,Activision,01/09/2021
+ac03,PlayStation,Action,Assassin's Creed Valhalla,Ubisoft,06/05/2021
+gta02,Xbox,Adventure,GTA V,Rockstar Games,03/22/2020
+cod04,PlayStation,Action,COD,Activision,01/09/2021

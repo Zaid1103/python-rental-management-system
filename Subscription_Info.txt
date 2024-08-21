@@ -1,0 +1,8 @@
+CustomerID,SubscriptionType,StartDate,EndDate
+coai,Basic,2022-01-01,2024-12-31
+abcd,Premium,2022-02-01,2024-12-21
+efgh,Basic,2022-03-01,2024-12-31
+ijkl,Premium,2022-04-01,2024-12-31
+mnop,Premium,2022-05-01,2024-12-31
+zkur,Premium,2022-05-01,2024-12-31
+akur,Premium,2022-05-01,2024-12-31
